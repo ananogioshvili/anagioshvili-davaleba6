@@ -1,7 +1,7 @@
 body{
     background-color: #F1F1F1;
     width: 1440px;
-    height: 1793px;
+    height: 1820px;
 }
 
 .body{
@@ -33,9 +33,15 @@ h2{
     font-style: normal;
 }
 
+
 .body2{
     margin-top: 50px;
     margin-left: 137px;
+}
+
+.threebox{
+    margin-left: 60px;
+    display: inline-block;
 }
 
 .text1{
@@ -48,6 +54,7 @@ h2{
     top: 32px;
     left: 41px;
 }
+
 
 .relative{
     position: relative;
@@ -94,3 +101,92 @@ h2{
     margin-bottom: 41px;
     
 }
+
+.relative1{
+    position: relative;
+    width: 362px;
+    height: 186px;
+    margin-top: 30px;
+}
+
+.text4{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    /* padding-top: 203px;
+    padding-left: 278px; */
+    top: 32px;
+    left: 41px;
+    width: 202px;
+    height: 23px;
+    margin-top: 170px;
+    margin-left: 230px;
+   
+}
+
+.body3{
+    margin-top: 50px;
+    margin-left: 137px;
+    display: inline-block;
+    /* vertical-align: top; */
+}
+
+.photo{
+    margin-bottom: 98px;
+    display: block;
+}
+
+.conteiner{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 45px;
+    margin-top: 80px;
+}
+
+.footer{
+    width: 1519px;
+    height: 201px;
+    background-color: #243043;
+    margin-top: 36px;
+    position: relative;
+}
+
+.footertext{
+    color: #818687;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.footersection{
+    display: inline-block;
+    margin-left: 150px;
+}
+
+h3{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    margin-top: 59px;
+    margin-left: 200px;
+}
+
+.footerimg{
+    margin-top: 59px;
+    margin-left: 1200px;
+}
+
+/* .footerplace{
+    position: fixed;
+    bottom: 0;
+} */
+
